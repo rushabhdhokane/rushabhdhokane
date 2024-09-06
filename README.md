@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rushabh Dhokane</h1>
 <h3 align="center"> Data Analyst </h3>
+<img align="right" alt="coding" width="400" src="https://i0.wp.com/kotapoint.in/wp-content/uploads/2023/09/ds-3.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rushabhdhokane&label=Profile%20views&color=0e75b6&style=flat" alt="rushabhdhokane" /> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
